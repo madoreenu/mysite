@@ -1,3 +1,5 @@
+<img src="icon_zen.jpg" width="200">
+
 # About
 
 まどれーぬといいます。
